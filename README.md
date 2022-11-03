@@ -1,3 +1,5 @@
 # Tienda virtual
 
--[Proyecto Tienda Virtual para Yetsy](https://nelvisstiphen.github.io/tienda-virtual)
+-[En Desarrollo...]
+
+-[Proyecto Tienda Virtual](https://nelvisstiphen.github.io/tienda-virtual)
